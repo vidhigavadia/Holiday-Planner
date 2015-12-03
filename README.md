@@ -1,0 +1,7 @@
+# Holiday-Planner
+
+Personalized Holiday Planner bridges the gap between the customers and the Planners by proving a platform to them to communicate and plan a trip where the customers can fully customize their tour. This site aims at creation of fast booking and easy searching of tours. The main aim of this site is customer can easily plan a trip to particular destination as his needs and after planning he can view his trip status and booking details from any place.
+
+Using Personalized Holiday Planner, any customer can plan their customize Trip/Holidays with various predefined options (No. of days, Hotel Category, Place, etc.) including travel and accommodation. User will get quotation online from multiple Holiday Planners and based on it, customer can confirm one of the options online. Selected planner will book entire trip and make all booking details available against customer id. It also supports online customer accounting system for all money transaction. In short this will be a paperless online system through which you can plan your trip/holiday from anywhere in the world with any holiday planner.
+
+Planner can update the hotel information, can update the places information, can quote for the trip prepared by customer, can upload the bookings’ e-copies, can check the payment status for all customer, can view status for every trip. Customer can plan a trip, get quotations from multiple planners, book a trip and can download the e-copies of bookings.
