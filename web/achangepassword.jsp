@@ -1,7 +1,7 @@
 <%-- 
     Document   : achangepassword
    
-    Author     : Brijesh Admin
+    Author     : Brijesh 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
