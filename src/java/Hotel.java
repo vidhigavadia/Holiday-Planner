@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class Hotel {
     
