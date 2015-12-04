@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class GetServlet extends HttpServlet {
 
