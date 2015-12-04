@@ -18,7 +18,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class DestinationServlet1 extends HttpServlet {
 
