@@ -21,7 +21,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class ApprovedTripServlet extends HttpServlet {
 
