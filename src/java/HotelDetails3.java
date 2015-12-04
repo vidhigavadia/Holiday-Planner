@@ -19,7 +19,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class HotelDetails3 extends HttpServlet {
 
