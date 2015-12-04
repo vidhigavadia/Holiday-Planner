@@ -19,7 +19,7 @@ import javax.mail.internet.MimeMessage;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class MailUtil {
     
