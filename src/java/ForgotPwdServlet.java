@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Brijesh Admin
+ * @author Brijesh 
  */
 public class ForgotPwdServlet extends HttpServlet {
 
