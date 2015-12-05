@@ -15,7 +15,6 @@ public class AVInvInfo {
     public String getVid() {
         return vid;
     }
-
     public void setVid(String vid) {
         this.vid = vid;
     }
